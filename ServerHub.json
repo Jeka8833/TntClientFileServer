@@ -1,1 +1,1 @@
-{"serverLists":[{"name":"MainServer","ip":"ws://linkkpibot.herokuapp.com"}]}
+{"serverLists":[{"name":"Server1","ip":"ws://15.206.147.236:8833","clearIP":"15.206.147.236"},{"name":"MainServer","ip":"ws://linkkpibot.herokuapp.com"}]}
